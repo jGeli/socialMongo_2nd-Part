@@ -36,6 +36,14 @@
     justify-content: center;
 }
 
+.profileInfoName {
+    font-size: 24px;
+}
+
+.profileInfoDesc {
+    
+}
+
 .profileRightBottom {
     display: flex;
 }
